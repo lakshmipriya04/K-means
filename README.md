@@ -1,2 +1,2 @@
 # How to run the program
-'''python test.py points.txt 2'''
+```python test.py points.txt 2```
